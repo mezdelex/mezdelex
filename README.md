@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mezdelex</h1>
-<h3 align="center">A passionate full stack developer from Spain</h3>
+<h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezdelex&label=Profile%20views&color=0e75b6&style=flat" alt="mezdelex" /> </p>
 
