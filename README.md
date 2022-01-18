@@ -27,8 +27,3 @@
 </td>
 </tr>
 </table>
-
-  
-  .ui.table tr th {
-  border-bottom: 0px !important;
-}
