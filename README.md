@@ -20,9 +20,9 @@
 <table>
   <tr>
      <td>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mezdelex&show_icons=true&locale=en&layout=compact" alt="mezdelex" /></p>     </td>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mezdelex&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"" alt="mezdelex" /></p>     </td>
     <td>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mezdelex&show_icons=true&show_owner=false&locale=en" alt="mezdelex" /></p></td><td>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mezdelex&show_icons=true&show_owner=false&locale=en&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="mezdelex" /></p></td><td>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mezdelex&" alt="mezdelex" /></p>
     </td>
   </tr>
