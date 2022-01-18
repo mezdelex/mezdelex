@@ -14,6 +14,6 @@
 <img align="top" src="https://komarev.com/ghpvc/?username=mezdelex&label=Profile%20views&color=0e75b6&style=flat" alt="mezdelex" />  
 <h2 align="left">Stats</h2>
 <div>
-<img align="left" width="360rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=mezdelex&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="mezdelex" />
+<img align="left" width="340rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=mezdelex&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="mezdelex" />
 <img align="right" width="400rem" src="https://github-readme-stats.vercel.app/api?username=mezdelex&show_icons=true&show_owner=false&locale=en&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="mezdelex" />
 </div>
