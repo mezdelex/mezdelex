@@ -17,6 +17,13 @@
 
 <h2 align="center">Stats</h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mezdelex&show_icons=true&locale=en&layout=compact" alt="mezdelex" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mezdelex&show_icons=true&show_owner=false&locale=en" alt="mezdelex" /></p>
+<table>
+  <tr>
+     <td>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mezdelex&show_icons=true&locale=en&layout=compact" alt="mezdelex" /></p>     </td>
+    <td>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mezdelex&show_icons=true&show_owner=false&locale=en" alt="mezdelex" /></p></td><td>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mezdelex&" alt="mezdelex" /></p>
+    </td>
+  </tr>
+  </table>
