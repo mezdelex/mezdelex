@@ -17,7 +17,7 @@
 
 <h2 align="center">Stats</h2>
 
-<table>
+<table align="center">
 <tr>
 <td>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mezdelex&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"" alt="mezdelex" /></p>
