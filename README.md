@@ -11,7 +11,7 @@
 
 </div>
 
-<img align="top" src="https://komarev.com/ghpvc/?username=mezdelex&label=Profile%20views&color=98971a&style=flat" alt="mezdelex" />  
+<img align="top" src="https://komarev.com/ghpvc/?username=mezdelex&label=Profile%20views&color=282828&style=flat" alt="mezdelex" />  
 <h2 align="left">Stats</h2>
 <div>
 <img align="left" widt="300rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=mezdelex&show_icons=true&locale=en&layout=compact&title_color=ebdbb2&icon_color=d65d0e&text_color=98971a&bg_color=282828" alt="mezdelex" />
