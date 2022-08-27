@@ -1,4 +1,4 @@
-<h3 align="top">Hi! Welcome to my profile<div>
+<h3 align="left">Hi! Welcome to my profile<div>
   <img width="40" height="40" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/waving-hand_1f44b.png" />
   <img width="64" height=64" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/grinning-face_1f600.png" />
 </div></h3>
