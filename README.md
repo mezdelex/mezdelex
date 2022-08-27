@@ -3,14 +3,6 @@
   <img width="64" height=64" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/grinning-face_1f600.png" />
 </div></h3>
 
-<h2 align"left">Trophies</h2>
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=mezdelex&row=2&column=4&theme=gruvbox" alt="mezdelex"/>
-<div align="left">
-  
-![](https://i.imgur.com/drLq9Cj.gif)
-
-</div>
-
 <img align="top" src="https://komarev.com/ghpvc/?username=mezdelex&label=Profile%20views&color=a9b665&style=flat" alt="mezdelex" />  
 <h2 align="left">Stats</h2>
 <div>
