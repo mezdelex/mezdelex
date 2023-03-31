@@ -9,4 +9,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mezdelex&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mezdelex&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mezdelex&theme=gruvbox&no-frame=false&bg=282828&margin-w=4)
